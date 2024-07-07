@@ -6,3 +6,4 @@ xhofe/alist:latest
 
 xiaoyaliu/alist
 xiaoyaliu/glue
+amilys/embyserver
