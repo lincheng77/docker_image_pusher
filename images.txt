@@ -4,6 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-xiaoyaliu/alist
-xiaoyaliu/glue
-amilys/embyserver
+#xiaoyaliu/alist
+#xiaoyaliu/glue
+#amilys/embyserver
+library/alpine
